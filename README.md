@@ -7,7 +7,7 @@
 * python Afghan.py
 
 
-# Tool Owner: Mr. Nisar Ulfat
+# Tool Owner:     Nisar Ulfat
 
 # Contact With NISAR ULFAT
 
